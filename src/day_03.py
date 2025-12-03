@@ -1,5 +1,4 @@
 from aocd.models import Puzzle
-from functools import reduce
 
 def parse_input(data):
     return data.split('\n')
